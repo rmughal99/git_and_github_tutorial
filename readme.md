@@ -1,4 +1,4 @@
-#############################DUMMY README FILE###################################################
+#############################DUMMY README FILE###################
 To install a Python library, you can use the `pip` package manager. Here are the general steps:
 
 1. Open your terminal or command prompt.
